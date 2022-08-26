@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Carole Philibien</h1>
+
+
 <h3 align="center">A passionate Data Analysis for Sustainable Mobility</h3>
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/6wa5vuYvetU1Jibm13/giphy.gif" width="100"/>
+</div>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
